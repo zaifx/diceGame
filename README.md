@@ -1,1 +1,1 @@
-# diceGame
+a normal js dice game
